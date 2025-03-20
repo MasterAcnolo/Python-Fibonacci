@@ -16,7 +16,7 @@ for i in range (num): # Nombre de répétitions de la fonction = num
     
     
     print(c ,end=' ') # Print le nombre de la suite 
-    a,b = b, c # Pour continuer la fonction on remplace les fonctions 
+    a,b = b, c # Pour continuer la fonction on remplace les valeurs 
     
 
 ############################################################
